@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Lucas",
+      "cpf": "00011100011",
+      "email": "lucasbramalhor@gmail.com",
+      "whatsapp": "92900001111",
+      "address": {
+        "postalcode": "69037063",
+        "street": "Alameda Albânia",
+        "number": 50,
+        "details": "Ap 1202",
+        "district": "Ponta Negra",
+        "city_state": "Manaus/AM"
+      },
+      "delivery_method": "Moto",
+      "cnh": "images/cnh-digital.jpg"
+  },
+  "cpf_inv": {
+    "name": "Lucas Ramalho",
+      "cpf": "000111000AB",
+      "email": "lucas@gmail.com",
+      "whatsapp": "92900002222",
+      "address": {
+        "postalcode": "69037063",
+        "street": "Alameda Albânia",
+        "number": 50,
+        "details": "Ap 1202",
+        "district": "Ponta Negra",
+        "city_state": "Manaus/AM"
+      },
+      "delivery_method": "Moto",
+      "cnh": "images/cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Lucas",
+      "cpf": "00011100011",
+      "email": "lucasbramalhor.com",
+      "whatsapp": "92900001111",
+      "address": {
+        "postalcode": "69037063",
+        "street": "Alameda Albânia",
+        "number": 50,
+        "details": "Ap 1202",
+        "district": "Ponta Negra",
+        "city_state": "Manaus/AM"
+    },
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+  }
+}
